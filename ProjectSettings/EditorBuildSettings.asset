@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/RecordHandPose.unity
+    guid: e996739984b7e4c42a653be338e1423a
+  - enabled: 0
+    path: Assets/Scenes/RecordingHandPose.unity
+    guid: a6635267080c1b342a58871503e0bf4e
+  - enabled: 0
+    path: Assets/Scenes/CaptureHandPose.unity
+    guid: cff1970d095735b479b7a679be910a2f
+  - enabled: 0
+    path: Assets/Scenes/MainPlayground.unity
+    guid: 12acac4ba3d45f041b35dceff0804547
+  - enabled: 1
+    path: Assets/Scenes/PrototypingGround.unity
+    guid: 6d7ccc187dc74de40a27e3b2af9debe0
+  - enabled: 0
+    path: Assets/VRUI - Material Design/Demo/SampleScene.unity
+    guid: 64354cfcbbea6334c948583585377912
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 77d613e7094243740b25aa89d25ced5a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fd81559610919ff4894d923b2ede8bed, type: 2}
